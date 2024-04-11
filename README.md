@@ -1,7 +1,6 @@
-# SchedCal
+# CPU Scheduler
 A web interface for calculating cpu scheduling time based on different scheduling algorithms.
-Available at: https://schedule-peach.vercel.app/
-
+ Available at : https://cpu-scheduler-one.vercel.app/
 
 
 
